@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hey hoomans!
+
+Simon here, like to code in C#, python and stuff.
