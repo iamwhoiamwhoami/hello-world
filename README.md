@@ -1,5 +1,5 @@
 # hello-world
 
-Hey hoomans!
+G'day folks!
 
-Simon here, like to code in C#, python and stuff.
+I enjoy coding in C# and Python mostly, but doodle in a lot of different languages.
